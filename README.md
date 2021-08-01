@@ -11,103 +11,16 @@
 
 # Table of Contents
 
-- [DAY 1 - Theoritical of Basics PLL and Lab Tool setup](# DAY 1 - Theoritical of Basics PLL and Lab Tool setup)
+- [DAY 1 - Theoritical of Basics PLL and Lab Tool setup](#day-1---theoritical-of-basics-pll-and-lab-tool-setup)
   * [Basics of PLL](#basics-of-pll)
-    + [PLL](#pll)
+    - Why PLL ()
     
-    
-    a
-    
-    
-    
-    a
-    
-    
-    
-    a
-    
-    
-    
-    a
-    
-    
-    a
-    
-    
-    a
-    a
-    
-    
-    a
-    a
-    a
-    a
-    
-    
-    a
-    
-    
-    aa
-    
-    
-    
-    
-    
-    aa
-    
-    
-    a
-    
-    
-    a
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
+  
 # DAY 1 - Theoritical of Basics PLL and Lab Tool setup
 
   Day 1 touches theorical basics of PLL and steps to install Magic(Layout) and Ngspice(Simulation) tool
   
 ## Basics of PLL
+
+
+### Why PLL
