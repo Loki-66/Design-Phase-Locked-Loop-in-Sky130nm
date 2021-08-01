@@ -15,6 +15,96 @@
   * [Basics of PLL](#basics-of-pll)
     + [PLL](#pll)
     
+    
+    a
+    
+    
+    
+    a
+    
+    
+    
+    a
+    
+    
+    
+    a
+    
+    
+    a
+    
+    
+    a
+    a
+    
+    
+    a
+    a
+    a
+    a
+    
+    
+    a
+    
+    
+    aa
+    
+    
+    
+    
+    
+    aa
+    
+    
+    a
+    
+    
+    a
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 # DAY 1 - Theoritical of Basics PLL and Lab Tool setup
 
