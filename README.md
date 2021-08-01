@@ -11,7 +11,7 @@
 
 # Table of Contents
 
-- [DAY 1 - Theoritical of Basics PLL and Lab Tool setup](Theoritical of Basics PLL and Lab Tool setup)
+- [DAY 1 - Theoritical of Basics PLL and Lab Tool setup](# DAY 1 - Theoritical of Basics PLL and Lab Tool setup)
   * [Basics of PLL](#basics-of-pll)
     + [PLL](#pll)
     
