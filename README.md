@@ -13,7 +13,7 @@
 
 - [DAY 1 - Theoritical of Basics PLL and Lab Tool setup](#day-1---theoritical-of-basics-pll-and-lab-tool-setup)
   * [Basics of PLL](#basics-of-pll)
-    - [Why PLL](#why-pll)
+    - [Intro to PLL](#intro-to-pll)
     
   
 # DAY 1 - Theoritical of Basics PLL and Lab Tool setup
@@ -23,4 +23,4 @@
 ## Basics of PLL
 
 
-### Why PLL
+### Intro to PLL
